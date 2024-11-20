@@ -81,7 +81,7 @@ public class SplashActivity extends BaseAppCompatActivity {
         PermissionManager.getInstance().requestAllPermissions(SplashActivity.this, permissionRequest);
 
     }
-//push deneme
+
     private void initStartApp() {
         isPermissionRequestActive = false;
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
