@@ -1,0 +1,442 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.audiocodes.mv.webrtcclient"
+4    android:versionCode="56"
+5    android:versionName="2.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+11-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:4:5-75
+11-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:4:22-72
+12    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+12-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:5:5-76
+12-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:6:5-77
+13-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+14-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:7:5-92
+14-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:7:22-89
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
+15-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:8:5-88
+15-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:8:22-85
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:10:5-76
+16-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:10:22-74
+17
+18    <uses-feature android:name="android.hardware.camera" />
+18-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:79:5-60
+18-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:79:19-57
+19    <uses-feature android:name="android.hardware.camera.autofocus" />
+19-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:80:5-70
+19-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:80:19-67
+20    <uses-feature
+20-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:81:5-83:35
+21        android:glEsVersion="0x00020000"
+21-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:82:9-41
+22        android:required="true" />
+22-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:83:9-32
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:85:5-67
+24-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:85:22-64
+25    <uses-permission android:name="android.permission.CAMERA" />
+25-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:86:5-65
+25-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:86:22-62
+26    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+26-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:87:5-71
+26-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:87:22-68
+27    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+27-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:88:5-80
+27-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:88:22-77
+28    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+28-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:90:5-75
+28-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:90:22-72
+29    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+29-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:91:5-72
+29-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:91:22-69
+30    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+30-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:92:5-76
+30-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:92:22-73
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:93:5-79
+31-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:93:22-76
+32    <uses-permission android:name="android.permission.WAKE_LOCK" />
+32-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:94:5-68
+32-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:94:22-65
+33    <uses-permission android:name="android.permission.VIBRATE" />
+33-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:95:5-66
+33-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:95:22-63
+34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+34-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:97:5-81
+34-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:97:22-78
+35    <uses-permission android:name="android.permission.READ_CONTACTS" />
+35-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:98:5-72
+35-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:98:22-69
+36    <uses-permission android:name="android.permission.BLUETOOTH" />
+36-->[:webrtcsdk-release] C:\Users\Sistaş\Desktop\DemoClient\webrtcsdk-release\build\.transforms\721ea6515b9c0a907fabba65d6b69f6d\transformed\jetified-webrtcsdk-release\AndroidManifest.xml:24:5-68
+36-->[:webrtcsdk-release] C:\Users\Sistaş\Desktop\DemoClient\webrtcsdk-release\build\.transforms\721ea6515b9c0a907fabba65d6b69f6d\transformed\jetified-webrtcsdk-release\AndroidManifest.xml:24:22-65
+37    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+37-->[:webrtcsdk-release] C:\Users\Sistaş\Desktop\DemoClient\webrtcsdk-release\build\.transforms\721ea6515b9c0a907fabba65d6b69f6d\transformed\jetified-webrtcsdk-release\AndroidManifest.xml:25:5-74
+37-->[:webrtcsdk-release] C:\Users\Sistaş\Desktop\DemoClient\webrtcsdk-release\build\.transforms\721ea6515b9c0a907fabba65d6b69f6d\transformed\jetified-webrtcsdk-release\AndroidManifest.xml:25:22-71
+38    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+39-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:26:5-110
+39-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:26:22-107
+40    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+40-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:5-82
+40-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:22-79
+41
+42    <permission
+42-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+43        android:name="com.audiocodes.mv.webrtcclient.permission.C2D_MESSAGE"
+43-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:29:9-63
+44        android:protectionLevel="signature" />
+44-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:30:9-44
+45
+46    <uses-permission android:name="com.audiocodes.mv.webrtcclient.permission.C2D_MESSAGE" />
+46-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
+46-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:22-76
+47
+48    <permission
+48-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+49        android:name="com.audiocodes.mv.webrtcclient.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+49-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+50        android:protectionLevel="signature" />
+50-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+51
+52    <uses-permission android:name="com.audiocodes.mv.webrtcclient.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+52-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+52-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+53
+54    <application
+54-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:12:5-77:19
+55        android:name="com.audiocodes.mv.webrtcclient.General.MainApp"
+55-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:13:9-40
+56        android:allowBackup="false"
+56-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:16:9-36
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.9.0] C:\Users\Sistaş\.gradle\caches\transforms-3\a8db1d57dbfa40462eadb94a7fde4018\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+58        android:debuggable="true"
+59        android:extractNativeLibs="false"
+60        android:icon="@drawable/desktop_icon"
+60-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:17:9-46
+61        android:label="@string/app_name"
+61-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:18:9-41
+62        android:largeHeap="true"
+62-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:20:9-33
+63        android:roundIcon="@drawable/desktop_icon"
+63-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:19:9-51
+64        android:supportsRtl="true"
+64-->[:webrtcsdk-release] C:\Users\Sistaş\Desktop\DemoClient\webrtcsdk-release\build\.transforms\721ea6515b9c0a907fabba65d6b69f6d\transformed\jetified-webrtcsdk-release\AndroidManifest.xml:31:9-35
+65        android:testOnly="true"
+66        android:theme="@style/AppTheme" >
+66-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:21:9-40
+67        <service
+67-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:23:9-30:19
+68            android:name="com.audiocodes.mv.webrtcclient.services.CallForegroundService"
+68-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:24:13-89
+69            android:exported="false"
+69-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:26:13-37
+70            android:foregroundServiceType="mediaPlayback|microphone" >
+70-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:25:13-69
+71            <intent-filter>
+71-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:27:13-29:29
+72                <action android:name="androidx.media3.session.MediaSessionService" />
+72-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:28:17-85
+72-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:28:25-83
+73            </intent-filter>
+74        </service>
+75
+76        <activity
+76-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:32:9-42:20
+77            android:name="com.audiocodes.mv.webrtcclient.Activities.SplashActivity"
+77-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:32:19-60
+78            android:exported="true"
+78-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:34:13-36
+79            android:screenOrientation="locked" >
+79-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:33:13-47
+80            <intent-filter>
+80-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:37:13-41:29
+81                <action android:name="android.intent.action.MAIN" />
+81-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:38:17-69
+81-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:38:25-66
+82
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:40:17-77
+83-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:40:27-74
+84            </intent-filter>
+85        </activity>
+86        <activity
+86-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:43:9-50:20
+87            android:name="com.audiocodes.mv.webrtcclient.Activities.MainActivity"
+87-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:44:13-52
+88            android:configChanges="keyboard|keyboardHidden"
+88-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:45:13-60
+89            android:launchMode="singleInstance"
+89-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:46:13-48
+90            android:screenOrientation="locked"
+90-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:47:13-47
+91            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+91-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:48:13-70
+92        </activity>
+93        <activity
+93-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:51:9-57:20
+94            android:name="com.audiocodes.mv.webrtcclient.Activities.CallActivity"
+94-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:52:13-52
+95            android:configChanges="keyboard|keyboardHidden"
+95-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:53:13-60
+96            android:screenOrientation="locked"
+96-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:54:13-47
+97            android:windowSoftInputMode="stateAlwaysHidden" >
+97-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:55:13-60
+98        </activity>
+99        <activity
+99-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:59:9-65:20
+100            android:name="com.audiocodes.mv.webrtcclient.Activities.CallStatsActivity"
+100-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:60:13-57
+101            android:configChanges="keyboard|keyboardHidden"
+101-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:61:13-60
+102            android:screenOrientation="locked"
+102-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:62:13-47
+103            android:windowSoftInputMode="stateAlwaysHidden" >
+103-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:63:13-60
+104        </activity>
+105
+106        <meta-data
+106-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:68:9-69:37
+107            android:name="firebase_messaging_auto_init_enabled"
+107-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:68:20-71
+108            android:value="false" />
+108-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:69:13-34
+109
+110        <service
+110-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:72:9-73:71
+111            android:name="com.audiocodes.mv.oauth.OAuthIntentService"
+111-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:72:18-75
+112            android:permission="android.permission.BIND_JOB_SERVICE" />
+112-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:73:13-69
+113
+114        <receiver
+114-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:74:9-76:38
+115            android:name="com.audiocodes.mv.oauth.OAuthReceiver"
+115-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:75:13-65
+116            android:enabled="true" />
+116-->C:\Users\Sistaş\Desktop\DemoClient\webrtcclient\src\main\AndroidManifest.xml:76:13-35
+117        <!--
+118             FirebaseMessagingService performs security checks at runtime,
+119             no need for explicit permissions despite exported="true"
+120        -->
+121        <service
+121-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:28:9-34:19
+122            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+122-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:29:13-82
+123            android:exported="true" >
+123-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:30:13-36
+124            <intent-filter android:priority="-500" >
+124-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:31:13-33:29
+124-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:31:28-51
+125                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+125-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:32:17-78
+125-->[com.google.firebase:firebase-messaging:17.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\90700ce0815386c630250afd90544344\transformed\jetified-firebase-messaging-17.0.0\AndroidManifest.xml:32:25-75
+126            </intent-filter>
+127        </service>
+128        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+128-->[com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\12ca712c4366c9fbdc5939c24d996da0\transformed\jetified-firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:27:9-31:19
+128-->[com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\12ca712c4366c9fbdc5939c24d996da0\transformed\jetified-firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:27:18-89
+129            <meta-data
+129-->[com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\12ca712c4366c9fbdc5939c24d996da0\transformed\jetified-firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:28:13-30:85
+130                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+130-->[com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\12ca712c4366c9fbdc5939c24d996da0\transformed\jetified-firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:29:17-139
+131                android:value="com.google.firebase.components.ComponentRegistrar" />
+131-->[com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\12ca712c4366c9fbdc5939c24d996da0\transformed\jetified-firebase-measurement-connector-impl-16.0.0\AndroidManifest.xml:30:17-82
+132            <meta-data
+132-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:36:13-38:85
+133                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+133-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:37:17-96
+134                android:value="com.google.firebase.components.ComponentRegistrar" />
+134-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:38:17-82
+135        </service>
+136
+137        <receiver
+137-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:29:9-33:20
+138            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+138-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:30:13-85
+139            android:enabled="true"
+139-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:31:13-35
+140            android:exported="false" >
+140-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:32:13-37
+141        </receiver>
+142        <receiver
+142-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:34:9-42:20
+143            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+143-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:35:13-100
+144            android:enabled="true"
+144-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:36:13-35
+145            android:exported="true"
+145-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:37:13-36
+146            android:permission="android.permission.INSTALL_PACKAGES" >
+146-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:38:13-69
+147            <intent-filter>
+147-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:39:13-41:29
+148                <action android:name="com.android.vending.INSTALL_REFERRER" />
+148-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:40:17-79
+148-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:40:25-76
+149            </intent-filter>
+150        </receiver>
+151
+152        <service
+152-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:44:9-47:40
+153            android:name="com.google.android.gms.measurement.AppMeasurementService"
+153-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:45:13-84
+154            android:enabled="true"
+154-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:46:13-35
+155            android:exported="false" />
+155-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:47:13-37
+156        <service
+156-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:48:9-52:72
+157            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+157-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:49:13-87
+158            android:enabled="true"
+158-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:50:13-35
+159            android:exported="false"
+159-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:51:13-37
+160            android:permission="android.permission.BIND_JOB_SERVICE" />
+160-->[com.google.firebase:firebase-analytics:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\11cb544f91331df0d8049763888b4187\transformed\jetified-firebase-analytics-16.0.0\AndroidManifest.xml:52:13-69
+161
+162        <receiver
+162-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:41:9-50:20
+163            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+163-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:42:13-78
+164            android:exported="true"
+164-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:43:13-36
+165            android:permission="com.google.android.c2dm.permission.SEND" >
+165-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:44:13-73
+166            <intent-filter>
+166-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:45:13-49:29
+167                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+167-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:17-81
+167-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:25-78
+168
+169                <category android:name="com.audiocodes.mv.webrtcclient" />
+169-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:17-61
+169-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:27-58
+170            </intent-filter>
+171        </receiver>
+172        <!--
+173             FirebaseInstanceIdService performs security checks at runtime,
+174             no need for explicit permissions despite exported="true"
+175        -->
+176        <service
+176-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:56:9-62:19
+177            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+177-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:57:13-77
+178            android:exported="true" >
+178-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:58:13-36
+179            <intent-filter android:priority="-500" >
+179-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:13-61:29
+179-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:28-51
+180                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+180-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:17-80
+180-->[com.google.firebase:firebase-iid:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\72ed0e7dc20e6188ce4e98a65e1d33ea\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:25-77
+181            </intent-filter>
+182        </service>
+183
+184        <provider
+184-->[com.google.firebase:firebase-common:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\43bed433f6e86d2ef12b64e93fdeea5a\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:9:9-13:39
+185            android:name="com.google.firebase.provider.FirebaseInitProvider"
+185-->[com.google.firebase:firebase-common:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\43bed433f6e86d2ef12b64e93fdeea5a\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:10:13-77
+186            android:authorities="com.audiocodes.mv.webrtcclient.firebaseinitprovider"
+186-->[com.google.firebase:firebase-common:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\43bed433f6e86d2ef12b64e93fdeea5a\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:11:13-72
+187            android:exported="false"
+187-->[com.google.firebase:firebase-common:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\43bed433f6e86d2ef12b64e93fdeea5a\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:12:13-37
+188            android:initOrder="100" />
+188-->[com.google.firebase:firebase-common:16.0.0] C:\Users\Sistaş\.gradle\caches\transforms-3\43bed433f6e86d2ef12b64e93fdeea5a\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:13:13-36
+189
+190        <activity
+190-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\22566ace2594dea8d05badcbe149dab6\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+191            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+191-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\22566ace2594dea8d05badcbe149dab6\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+192            android:exported="false"
+192-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\22566ace2594dea8d05badcbe149dab6\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+193            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+193-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\22566ace2594dea8d05badcbe149dab6\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+194
+195        <meta-data
+195-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\f8ee2c6adbdcae1f544fce4be318d284\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+196            android:name="com.google.android.gms.version"
+196-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\f8ee2c6adbdcae1f544fce4be318d284\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+197            android:value="@integer/google_play_services_version" />
+197-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Sistaş\.gradle\caches\transforms-3\f8ee2c6adbdcae1f544fce4be318d284\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+198
+199        <provider
+199-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+200            android:name="androidx.startup.InitializationProvider"
+200-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+201            android:authorities="com.audiocodes.mv.webrtcclient.androidx-startup"
+201-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+202            android:exported="false" >
+202-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+203            <meta-data
+203-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+204                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+204-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+205                android:value="androidx.startup" />
+205-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Sistaş\.gradle\caches\transforms-3\4a9cab446b967d18a672003375ab238f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+206            <meta-data
+206-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Sistaş\.gradle\caches\transforms-3\87231e413f38f28f7c16e132b1a6dbbb\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+207                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+207-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Sistaş\.gradle\caches\transforms-3\87231e413f38f28f7c16e132b1a6dbbb\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+208                android:value="androidx.startup" />
+208-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Sistaş\.gradle\caches\transforms-3\87231e413f38f28f7c16e132b1a6dbbb\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+209            <meta-data
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+210                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+210-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+211                android:value="androidx.startup" />
+211-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+212        </provider>
+213
+214        <receiver
+214-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+215            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+216            android:directBootAware="false"
+216-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+217            android:enabled="true"
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+218            android:exported="true"
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+219            android:permission="android.permission.DUMP" >
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+220            <intent-filter>
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+221                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+222            </intent-filter>
+223            <intent-filter>
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+224                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+225            </intent-filter>
+226            <intent-filter>
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+227                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+228            </intent-filter>
+229            <intent-filter>
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+230                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Sistaş\.gradle\caches\transforms-3\05abcd5a18c956df3b814c61bc9d28e3\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+231            </intent-filter>
+232        </receiver>
+233    </application>
+234
+235</manifest>

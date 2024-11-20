@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include
+
+        android:id="@+id/call_layout_ac_webrtc_video"
+        layout="@layout/ac_webrtc_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        android:id="@+id/call_layout_dtmf_pad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <!--android:layout_marginRight="55dp"-->
+        <!--android:layout_marginLeft="55dp"-->
+
+        <LinearLayout
+            android:id="@+id/dialer_layout_row_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1">
+
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="1"
+                android:textSize="20sp"
+                app:Text="1"
+                style="@style/DialerKeypadButton"/>
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/DialerKeypadButton"
+                app:Text="2\nABC" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/DialerKeypadButton"
+                app:Text="3\nDEF" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/call_layout_row_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1">
+
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="4\nGHI" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="5\nJKL" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="6\nMNO" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/call_layout_row_3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1">
+
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="7\nPQRS" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="8\nTUV" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="9\nWXYZ" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/call_layout_row_4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1">
+
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_asterisk"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="*" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="0\n+" />
+            <com.audiocodes.mv.webrtcclient.Structure.ImageViewWithText
+                android:id="@+id/call_button_keypad_hash"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                style="@style/CallKeypadButton"
+                app:Text="#" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/call_layout_audio_call"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/call_textview_call_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/CallTextView"
+            android:text="@string/call_textview_call_state" />
+
+        <TextView
+            android:id="@+id/call_textview_call_transfer_state_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/CallTextView"
+            android:textSize="12sp"
+            android:text="" />
+        />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:id="@+id/call_imageView_contact_image"
+            android:layout_width="220sp"
+            android:layout_height="220sp"
+            app:srcCompat="@drawable/call_image_default_contact" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/call_textview_contact_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/CallTextView"
+
+            android:text="name" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/call_textview_contact_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/CallTextView"
+
+            android:text="number" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/call_layout_top_buttons"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="left"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/call_button_transfer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call_button_circle_background_xml"
+            app:srcCompat="@drawable/call_button_icon_transfer"/>
+
+        <ImageView
+            android:id="@+id/call_button_add_call"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call_button_circle_background_xml"
+            app:srcCompat="@drawable/call_button_icon_addcall"/>
+            <!--android:text="@string/call_button_add_call" />-->
+
+        <ImageView
+            android:id="@+id/call_button_audio_route"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call_button_circle_background_xml"
+            app:srcCompat="@drawable/call_button_icon_earpiece"/>
+
+        <ImageView
+            android:id="@+id/call_button_add_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call_button_circle_background_xml"
+            app:srcCompat="@drawable/call_button_icon_add_video"/>
+            <!--android:text="@string/call_button_audio_route" />-->
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/call_layout_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/call_button_mute"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_mute"
+                android:text="@string/call_button_mute" />
+
+            <ImageView
+                android:id="@+id/call_button_switch_camera"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_switch_video"
+                android:text="@string/call_button_switch_camera" />
+
+            <ImageView
+                android:id="@+id/call_button_dtmf"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_dialpad"
+                android:text="@string/call_button_dtmf" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/endlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/call_button_hold"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_hold"
+                android:text="@string/call_button_hold" />
+
+            <ImageView
+                android:id="@+id/call_button_switch_call"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_switch_call"
+                android:text="@string/call_button_switch_call" />
+
+            <ImageView
+                android:id="@+id/call_button_end_call"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/call_button_background_xml"
+                app:srcCompat="@drawable/call_button_icon_call_end"
+                android:text="@string/call_button_end_call" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

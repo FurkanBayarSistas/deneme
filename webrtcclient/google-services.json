@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "174036830600",
+    "firebase_url": "https://webrtcclient-1f399.firebaseio.com",
+    "project_id": "webrtcclient-1f399",
+    "storage_bucket": "webrtcclient-1f399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174036830600:android:23823a4ab987fcd7",
+        "android_client_info": {
+          "package_name": "com.audiocodes.mv.webrtcclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174036830600-donsrsomtsefh4it2fn57q0s0gr6jjfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGVGM2WNPo8EmAWZK8qjYV0v9mgQVxZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

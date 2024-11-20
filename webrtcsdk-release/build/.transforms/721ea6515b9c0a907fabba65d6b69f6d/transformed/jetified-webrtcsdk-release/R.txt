@@ -1,0 +1,7 @@
+int id local_video_layout 0x0
+int id local_video_view 0x0
+int id remote_video_layout 0x0
+int id remote_video_view 0x0
+int layout ac_webrtc_video 0x0
+int string app_name 0x0
+int string version 0x0

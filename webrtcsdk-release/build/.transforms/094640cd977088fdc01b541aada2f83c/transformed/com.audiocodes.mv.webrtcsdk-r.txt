@@ -1,0 +1,8 @@
+com.audiocodes.mv.webrtcsdk
+id local_video_layout
+id local_video_view
+id remote_video_layout
+id remote_video_view
+layout ac_webrtc_video
+string app_name
+string version

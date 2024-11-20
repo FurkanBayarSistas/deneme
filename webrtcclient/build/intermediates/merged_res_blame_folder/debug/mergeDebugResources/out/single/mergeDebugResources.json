@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_default_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\default_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_mute.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_answer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_dialpad_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\dialpad_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_hold.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_hold.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_dialpad_button_back_icon_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\dialpad_button_back_icon_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_call_end.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_hardware_headset_mic.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_hardware_headset_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_default_contact_list_picture.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\default_contact_list_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_switch_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_switch_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_dialer.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_transfer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_recent_outgoing.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\recent_outgoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_speaker.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_call_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\call_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_addcall.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_addcall.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_chat.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_general_settings_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\general_settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_history.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_login_advanced_close.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\login_advanced_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_history.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_notification_view.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\raw_ringback.wav.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\raw\\ringback.wav"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_recent_incoming.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\recent_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_default_button_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\default_button_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_settings.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_hardware_headset_mic.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_hardware_headset_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_dialpad_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\dialpad_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_contacts.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_background_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_background_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_call_layout_buttons.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\call_layout_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_default_contact_list_picture.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\default_contact_list_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_default_contact_list_picture.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\default_contact_list_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_av_videocam.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_av_videocam.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_dialpad_button_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\dialpad_button_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_dialpad_button_back_icon_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\dialpad_button_back_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_image_default_contact.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_image_default_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_add_call_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_add_call_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_settings.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_circle_background_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_circle_background_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_chat.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_speaker.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_recent_missed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\recent_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_bluetooth.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_background_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_background_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_add_entry.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_add_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_reject.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_reject.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_account_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\account_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_recent_missed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\recent_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_dialpad_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\dialpad_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_contact_list_row.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\contact_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_addcall.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_addcall.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_dialpad_button_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\dialpad_button_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_mute_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_mute_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_switch_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_switch_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_switch_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_switch_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_hold.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_hold.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_add_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_add_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_background_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_background_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_image_default_contact.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_image_default_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_switch_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_switch_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_exit.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_tablet_info.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_tablet_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_dialpad_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\dialpad_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_recent_missed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\recent_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_image_view_with_text.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\image_view_with_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_video_call_image_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\video_call_image_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_button_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_button_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_indicator_red.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\indicator_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_call_end.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_default_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\default_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_exit.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_switch_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_switch_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_dialpad_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\dialpad_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_login_advanced_close.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\login_advanced_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_splash_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_indicator_red_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\indicator_red_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_login_advanced_open.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\login_advanced_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_earpiece.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_earpiece.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_av_videocam.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_av_videocam.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_reject.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_reject.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_default_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\default_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_hardware_headset_mic.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_hardware_headset_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_default_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\default_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_video_call_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\video_call_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_answer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_add_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_add_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_settings.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_call_stats_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\call_stats_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_recent_outgoing.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\recent_outgoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_desktop_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\desktop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_background_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_background_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_login_advanced_open.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\login_advanced_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_default_contact_list_picture.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\default_contact_list_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_hardware_headset_mic.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_hardware_headset_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_indicator_green_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\indicator_green_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_circle_background_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_circle_background_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_dialpad_button_back_icon_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\dialpad_button_back_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_speaker.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_indicator_red_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\indicator_red_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_call_button_circle_background_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\call_button_circle_background_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_indicator_green.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\indicator_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_settings.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_history.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_video_call_image_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\video_call_image_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_chat.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_history.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_background.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_indicator_red.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\indicator_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_recent_missed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\recent_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_background_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_background_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_reject.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_reject.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_switch_video.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_switch_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_recent_outgoing.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\recent_outgoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_contacts.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_login_advanced_close.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\login_advanced_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_login_advanced_open.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\login_advanced_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_background.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_indicator_green_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\indicator_green_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_indicator_red_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\indicator_red_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_dialpad_button_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\dialpad_button_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_recents_list_row.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\recents_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_title_bar_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\title_bar_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_dialpad_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\dialpad_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_recent_outgoing.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\recent_outgoing.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_addcall.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_addcall.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_add_call_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_add_call_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_speaker.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_button_exit.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_button_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_video_call_image_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\video_call_image_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_chat.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_call_end.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_video_call_image_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\video_call_image_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_indicator_green_l.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\indicator_green_l.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_navigation_buttons.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_navigation_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_desktop_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\desktop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_button_back_icon_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_button_back_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_default_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\default_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_recent_incoming.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\recent_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_bluetooth.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_login_advanced_close.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\login_advanced_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_login_advanced_open.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\login_advanced_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_recent_incoming.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\recent_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_image_default_contact.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_image_default_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-mdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-mdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_recent_list.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_recent_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_switch_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_switch_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_indicator_green.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\indicator_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_dialpad_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\dialpad_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_transfer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_answer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_reject.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_reject.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_earpiece.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_earpiece.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_desktop_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\desktop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_answer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_transfer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_recent_incoming.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\recent_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_chat.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_default_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\default_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_default_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\default_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_circle_background.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_circle_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_transfer.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_add_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_add_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_call_button_background_xml.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\call_button_background_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_background_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_background_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_av_videocam.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_av_videocam.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_mute.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_add_call_disabled.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_add_call_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_indicator_green.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\indicator_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_hold.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_hold.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_desktop_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\desktop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragment_contact_list.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragment_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_video_call_image_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\video_call_image_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_incoming_call_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\incoming_call_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_dialpad_button_back_icon.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\dialpad_button_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_earpiece.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_earpiece.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_custom_toolbar.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_background.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_dialpad.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_dialpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_title_bar_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\title_bar_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_indicator_red.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\indicator_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_mute.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_video_call_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\video_call_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_bluetooth.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_dialpad_button_back_icon_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\dialpad_button_back_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_default_button_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\default_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_mute.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_icon_earpiece.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_icon_earpiece.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_switch_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_switch_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_ic_av_videocam.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\ic_av_videocam.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_permission_denied_activity.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\permission_denied_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_title_bar_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\title_bar_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_dialpad_button.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\dialpad_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_ic_button_exit.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\ic_button_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_button_icon_call_end.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_button_icon_call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_video_call_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\video_call_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_addcall.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_addcall.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_ic_button_contacts.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\ic_button_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_call_image_default_contact.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\call_image_default_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_video_call_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\video_call_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xhdpi_call_button_add_call.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xhdpi\\call_button_add_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\layout_main_fragments.xml.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\layout\\main_fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_background_pressed.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_background_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-xxhdpi_title_bar_image.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-xxhdpi\\title_bar_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-hdpi_call_button_icon_bluetooth.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-hdpi\\call_button_icon_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_ic_button_contacts.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\ic_button_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-debug-37:\\drawable-mdpi_call_button_icon_hold.png.flat",
+        "source": "C:\\Users\\Sistaş\\.gradle\\daemon\\8.5\\com.audiocodes.mv.webrtcclient-main-39:\\drawable-mdpi\\call_button_icon_hold.png"
+    }
+]
